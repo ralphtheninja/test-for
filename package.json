@@ -19,7 +19,8 @@
     "url": "https://github.com/ralphtheninja/test-for.git"
   },
   "scripts": {
-    "test": "tape test && standard"
+    "test": "tape test && standard",
+    "test-for": "test-for -n 3"
   },
   "author": "Lars-Magnus Skog <ralphtheninja@riseup.net>",
   "keywords": [],
