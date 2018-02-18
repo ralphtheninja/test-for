@@ -1,6 +1,6 @@
 # test-for
 
-> Run `npm test` until it breaks
+> Run `npm test` until it breaks.
 
 ![Node version](https://img.shields.io/node/v/test-for.svg)
 [![Build Status](https://travis-ci.org/ralphtheninja/test-for.svg?branch=master)](https://travis-ci.org/ralphtheninja/test-for)
