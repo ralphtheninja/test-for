@@ -1,0 +1,25 @@
+{
+  "name": "test-for",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^10.0.3",
+    "tape": "^4.8.0"
+  },
+  "homepage": "https://github.com/ralphtheninja/test-for",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ralphtheninja/test-for.git"
+  },
+  "scripts": {
+    "test": "tape test && standard"
+  },
+  "author": "Lars-Magnus Skog <ralphtheninja@riseup.net>",
+  "keywords": [],
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "license": "MIT"
+}
