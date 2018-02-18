@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "commander": "^2.14.1"
+  },
   "devDependencies": {
     "standard": "^10.0.3",
     "tape": "^4.8.0"
