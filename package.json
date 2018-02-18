@@ -23,7 +23,12 @@
     "test-for": "test-for -n 3"
   },
   "author": "Lars-Magnus Skog <ralphtheninja@riseup.net>",
-  "keywords": [],
+  "keywords": [
+    "npm",
+    "test",
+    "forever",
+    "maintenance"
+  ],
   "engines": {
     "node": ">=4.0.0"
   },
