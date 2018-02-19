@@ -1,5 +1,7 @@
 # test-for
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ralphtheninja/test-for.svg)](https://greenkeeper.io/)
+
 > Run `npm test` until it breaks.
 
 ![Node version](https://img.shields.io/node/v/test-for.svg)
