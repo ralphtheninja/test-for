@@ -1,9 +1,8 @@
 # test-for
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/ralphtheninja/test-for.svg)](https://greenkeeper.io/)
-
 > Run `npm test` until it breaks.
 
+[![npm](https://img.shields.io/npm/v/test-for.svg)](https://www.npmjs.com/package/test-for)
 ![Node version](https://img.shields.io/node/v/test-for.svg)
 [![Build Status](https://travis-ci.org/ralphtheninja/test-for.svg?branch=master)](https://travis-ci.org/ralphtheninja/test-for)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
