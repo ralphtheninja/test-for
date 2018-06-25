@@ -4,6 +4,7 @@
   "description": "Run `npm test` until it breaks.",
   "main": "index.js",
   "dependencies": {
+    "chalk": "^2.4.1",
     "commander": "^2.14.1"
   },
   "devDependencies": {
