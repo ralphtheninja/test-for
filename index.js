@@ -8,10 +8,13 @@ const cmd = require('./cmd')
 
 let count = 0
 const MAX = cmd.N
+const start = Date.now()
 
 function test () {
   if (count === MAX) {
+    const time = (Date.now() - start) / 1000
     console.log(chalk.yellow(`\nFinished running ${count} tests!`))
+    console.log(chalk.yellow(`Total time; ${time} s. Average: ${time / count} s.`))
     process.exit(0)
   }
   ++count
