@@ -1,6 +1,6 @@
 {
   "name": "test-for",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "Run `npm test` until it breaks.",
   "main": "index.js",
   "dependencies": {
