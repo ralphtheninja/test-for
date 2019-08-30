@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "chalk": "^2.4.1",
-    "commander": "^2.14.1",
+    "commander": "^3.0.1",
     "cross-spawn": "^6.0.5"
   },
   "devDependencies": {
