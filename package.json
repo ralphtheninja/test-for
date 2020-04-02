@@ -4,7 +4,7 @@
   "description": "Run `npm test` until it breaks.",
   "main": "index.js",
   "dependencies": {
-    "chalk": "^2.4.1",
+    "chalk": "^4.0.0",
     "commander": "^2.14.1",
     "cross-spawn": "^6.0.5"
   },
